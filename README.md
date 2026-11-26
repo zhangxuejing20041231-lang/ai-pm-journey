@@ -11,6 +11,12 @@
 | `notes/` | 学习笔记：一个概念，尽量用自己的话说清楚，再记一下还没弄懂的地方 | 每天一篇 |
 | `product-teardowns/` | AI 产品拆解：用户是谁、解决什么问题、体验怎么样、靠什么赚钱 | 每周一篇 |
 | `experiments/` | Prompt 和 Agent 的小实验：想解决什么问题、怎么试的、结果如何 | 做完就记 |
+| `resources/` | 学习资源清单：Agent Skills 和开源大模型，看到好的就往里加 | 每周整理一次 |
+
+## 学习资源
+
+- [Agent Skills 学习清单](resources/skills.md)：官方技能仓库、规范和社区精选合集
+- [开源大模型学习清单](resources/open-models.md)：主流开源模型各自的特点，适合拿来学什么
 
 ## 我对这两个岗位的理解
 
